@@ -1,14 +1,3 @@
 defaults:
   - base
   - custom
-executor:
-  source: 
-    - arxiv
-    - zotero
-retriever:
-  arxiv:
-    category: [
-      "cs.AI", "cs.CL", "cs.LG", 
-      "math.ST", "stat.AP", "stat.ML", 
-      "stat.CO", "stat.TH", "stat.ME", "stat.OT"
-    ]
