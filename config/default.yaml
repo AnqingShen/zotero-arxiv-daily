@@ -1,3 +1,7 @@
 defaults:
   - base
   - custom
+executor:
+  source: 
+    - arxiv
+    -zotero
