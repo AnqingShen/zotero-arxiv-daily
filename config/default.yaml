@@ -4,4 +4,4 @@ defaults:
 executor:
   source: 
     - arxiv
-    -zotero
+    - zotero
